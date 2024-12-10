@@ -23,6 +23,14 @@
     width: 60px;
     border: 2px solid red;
     border-radius: 50px;
+    background-color: gray;
+    color: gray;
+}
+#red:hover{
+    height: 60px;
+    width: 60px;
+    border: 2px solid red;
+    border-radius: 50px;
     background-color: red;
     color: red;
 }
@@ -31,10 +39,28 @@
     width: 60px;
     border: 2px solid green;
     border-radius: 50px;
+    background-color: gray;
+    color: gray;
+}
+
+#green:hover{
+    height: 60px;
+    width: 60px;
+    border: 2px solid green;
+    border-radius: 50px;
     background-color: green;
     color: green;
 }
 #yellow{
+    height: 60px;
+    width: 60px;
+    border: 2px solid yellow;
+    border-radius: 50px;
+    background-color: gray;
+    color: gray;
+}
+
+#yellow:hover{
     height: 60px;
     width: 60px;
     border: 2px solid yellow;
