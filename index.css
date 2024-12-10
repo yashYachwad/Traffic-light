@@ -21,7 +21,7 @@
 #red{
     height: 60px;
     width: 60px;
-    border: 2px solid red;
+    border: 2px solid gray;
     border-radius: 50px;
     background-color: gray;
     color: gray;
@@ -33,11 +33,12 @@
     border-radius: 50px;
     background-color: red;
     color: red;
+   box-shadow: 4px 4px 10px red;
 }
 #green{
     height: 60px;
     width: 60px;
-    border: 2px solid green;
+    border: 2px solid gray;
     border-radius: 50px;
     background-color: gray;
     color: gray;
@@ -50,11 +51,12 @@
     border-radius: 50px;
     background-color: green;
     color: green;
+    box-shadow: 4px 4px 10px green;
 }
 #yellow{
     height: 60px;
     width: 60px;
-    border: 2px solid yellow;
+    border: 2px solid gray;
     border-radius: 50px;
     background-color: gray;
     color: gray;
@@ -67,4 +69,5 @@
     border-radius: 50px;
     background-color: yellow;
     color: yellow;
+    box-shadow: 4px 4px 10px yelow;
 }
